@@ -1,0 +1,41 @@
+body{
+    margin: 0px;
+}
+nav{
+    display: flex;
+justify-content: space-evenly;
+    padding: 30px;
+    align-items: center;
+
+
+}
+ul{
+    display: flex;
+    gap: 12px;
+
+}
+li{
+    text-decoration: none;
+    list-style: none;
+}
+main{
+    display: flex;
+    margin: 0px 30px 30px 280px;
+}
+.rs,.ys{
+    gap: 100px;
+}
+
+.rx,.ut{
+    display: inline-flex;
+    gap: 20px;
+}
+
+.yt,.kl {
+    display: inline-flex;
+    gap: 200px;
+}
+
+.az,.ab{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
